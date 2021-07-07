@@ -1,4 +1,4 @@
-# Document Structure Continued
+># Document Structure Continued
 
 ## Learning Goals
 
